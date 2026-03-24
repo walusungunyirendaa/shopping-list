@@ -6,3 +6,7 @@ Donuts
 Crisps
 Cookies
 Biscuits
+Candies
+Waffles
+Popcorns
+Cake
