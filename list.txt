@@ -1,3 +1,13 @@
+Disinfectant
+Anti-septic liquid
+Bathing soap
+Washing powder
+Dishwashing liquid
+Hand soap
+Broom
+Mop
+Scrubbing brush
+Scouring powder
 Air fryer
 Forks
 Cooking oil
@@ -19,3 +29,4 @@ Candies
 Waffles
 Popcorns
 Cake
+
